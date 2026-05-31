@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2103",
+  "folder": "YouTube__watch_20260531193545_d6a88f",
+  "base_name": "How_to_Gear_Up_Down_with_Manual_In_Forza_Horizon_6_-_Full_Guide_7mDnQz6gTGU_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/yasproject/Cloud-Downloads-2/releases/tag/co-releases-v1-2103",
+  "files": [
+    {
+      "name": "How_to_Gear_Up_Down_with_Manual_In_Forza_Horizon_6_-_Full_Guide_7mDnQz6gTGU_480p.mp4",
+      "url": "https://github.com/yasproject/Cloud-Downloads-2/releases/download/co-releases-v1-2103/How_to_Gear_Up_Down_with_Manual_In_Forza_Horizon_6_-_Full_Guide_7mDnQz6gTGU_480p.mp4",
+      "api_url": "https://api.github.com/repos/yasproject/Cloud-Downloads-2/releases/assets/434641699",
+      "id": 434641699,
+      "size": 14138111,
+      "download_count": 0
+    }
+  ]
+}
